@@ -1,4 +1,3 @@
-# RiffHub
 # CONTEXT I AVAST PROJECTE INTERMODULAR - MÚSICA (RIFFHUB)
 
 ## Coworking Musical RIFFHUB
