@@ -21,9 +21,6 @@ El projecte utilitzarà els coneixements del cicle de SMX.
 ### Muntatge i manteniment d’equips
 - Preparar ordinadors per al personal i punts Wi-Fi per cobrir estudis i sales.
 
-### Xarxes locals
-- Crear una xarxa separada amb VLANs, servidor DHCP i control d’accés per personal i usuaris.
-
 ### Sistemes operatius
 - Configurar un servidor Linux amb Apache, MySQL i serveis FTP per gestionar fitxers.
 
