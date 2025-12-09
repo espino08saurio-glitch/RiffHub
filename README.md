@@ -52,7 +52,8 @@ Aquest projecte permetrà veure com la tecnologia pot transformar un espai creat
 
 ---
 
-### **Fase 1: Infraestructura física (3–4 mesos)**
+
+## **Fase 1: Infraestructura física (3–4 mesos)**
 
 **Objectiu:** preparar i equipar espais d’assaig i gravació amb qualitat professional.  
 **Tasques principals:**
@@ -66,7 +67,7 @@ Aquest projecte permetrà veure com la tecnologia pot transformar un espai creat
 * **Contractació de personal:** incorporar tècnics d’estudi, manteniment i recepció.  
 * **Xarxa interna bàsica:** instal·lar connexions per streaming, gravacions i còpies de seguretat internes.
 
-### **Fase 2: Infraestructura digital i tecnològica (2–3 mesos)**
+## **Fase 2: Infraestructura digital i tecnològica (2–3 mesos)**
 
 **Objectiu:** desplegar la plataforma digital i tots els sistemes audiovisuals.  
 **Tasques principals:**
@@ -81,7 +82,7 @@ Aquest projecte permetrà veure com la tecnologia pot transformar un espai creat
 * **Sensors i monitoratge:** control de temperatura, humitat i estat dels equips en temps real.  
 * **Seguretat i backups:** SSL, còpies automàtiques i CRM per gestionar clients i comunicació.
 
-### **Fase 3: Llançament i promoció (1–2 mesos)**
+## **Fase 3: Llançament i promoció (1–2 mesos)**
 
 **Objectiu:** donar visibilitat al projecte i captar comunitat.  
 **Tasques principals:**
