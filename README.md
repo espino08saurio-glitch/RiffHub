@@ -54,7 +54,7 @@ Aquest projecte permetrà veure com la tecnologia pot transformar un espai creat
 ---
 
 
-# **Fases del projecte**
+# **FASES DEL PROJECTE**
 
 ## **Fase 1: Infraestructura física (3–4 mesos)**
 
