@@ -49,3 +49,46 @@ La gestió del projecte es farà amb GitHub en diferents fases:
 
 ## Conclusions i aprenentatges esperats
 Aquest projecte permetrà veure com la tecnologia pot transformar un espai creatiu en un servei modern i ordenat. Aplicarem coneixements reals de SMX, aprendrem a organitzar-nos, treballar en equip i completar un projecte. El resultat final farà que RIFFHUB sigui un lloc eficient, segur i fàcil d’utilitzar per totes les bandes que hi passin.
+
+---
+
+### **Fase 1: Infraestructura física (3–4 mesos)**
+
+**Objectiu:** preparar i equipar espais d’assaig i gravació amb qualitat professional.  
+**Tasques principals:**
+
+* **Selecció i adequació del local:** triar un espai ampli, adaptar-lo i garantir que compleix normes acústiques.  
+* **Aïllament i tractament acústic:** col·locar panells, portes especials i materials que evitin filtracions de so.  
+* **Disseny de cabines, sala gran i sales de mescla:** crear zones per assajar, gravar i mesclar amb condicions òptimes.  
+* **Instal·lació elèctrica i HVAC reforçats:** preparar circuits estables i climatització per equips sensibles.  
+* **Inventari i muntatge d’instruments i equips:** organitzar guitarres, bateries, amplis, micros i altres recursos.  
+* **Cabines de control i zones comunes:** habilitar espais per tècnics i àrees per a músics i visitants.  
+* **Contractació de personal:** incorporar tècnics d’estudi, manteniment i recepció.  
+* **Xarxa interna bàsica:** instal·lar connexions per streaming, gravacions i còpies de seguretat internes.
+
+### **Fase 2: Infraestructura digital i tecnològica (2–3 mesos)**
+
+**Objectiu:** desplegar la plataforma digital i tots els sistemes audiovisuals.  
+**Tasques principals:**
+
+* **Domini i hosting:** registrar el domini i activar un hosting escalable.  
+* **Servidors cloud:** allotjar web, reserves, fitxers grans i espais per clients.  
+* **Pàgina web:** permetre reserves, mostrar sales, preus, calendari i informació del centre.  
+* **Pagaments i subscripcions:** integrar eines segures per pagar i reservar.  
+* **Llicències de DAW i plugins:** adquirir software per gravació i producció musical.  
+* **Instal·lació d’equips audiovisuals:** càmeres, micròfons, interfícies i RACKs per connexions ordenades.  
+* **Streaming i arxiu automàtic:** sistemes perquè les bandes puguin fer directes i guardar sessions.  
+* **Sensors i monitoratge:** control de temperatura, humitat i estat dels equips en temps real.  
+* **Seguretat i backups:** SSL, còpies automàtiques i CRM per gestionar clients i comunicació.
+
+### **Fase 3: Llançament i promoció (1–2 mesos)**
+
+**Objectiu:** donar visibilitat al projecte i captar comunitat.  
+**Tasques principals:**
+
+* **Campanyes digitals i directes:** vídeos, clips, visites virtuals i actuacions en viu des del centre.  
+* **Col·laboracions:** treballar amb músics locals, escoles i creadors per donar difusió.  
+* **Paquets promocionals:** ofertes de llançament, descomptes i plans de subscripció.  
+* **SEO i presència online:** optimitzar la web i aparèixer en cercadors i plataformes musicals.  
+* **Participació en esdeveniments:** assistir a fires, showcases i trobades del sector musical.  
+* **Anàlisi de mètriques:** revisar ocupació, vendes, visites i interaccions per millorar el servei.
