@@ -76,23 +76,11 @@ Aquest projecte permetrà veure com la tecnologia pot transformar un espai creat
 **Tasques principals:**
 
 * **Domini i hosting:** registrar el domini i activar un hosting escalable.  
-* **Servidors cloud:** allotjar web, reserves, fitxers grans i espais per clients.  
+* **Servidors cloud:** reserves, fitxers grans i espais per clients.  
 * **Pàgina web:** permetre reserves, mostrar sales, preus, calendari i informació del centre.  
 * **Pagaments i subscripcions:** integrar eines segures per pagar i reservar.  
 * **Llicències de DAW i plugins:** adquirir software per gravació i producció musical.  
 * **Instal·lació d’equips audiovisuals:** càmeres, micròfons, interfícies i RACKs per connexions ordenades.  
 * **Streaming i arxiu automàtic:** sistemes perquè les bandes puguin fer directes i guardar sessions.  
 * **Sensors i monitoratge:** control de temperatura, humitat i estat dels equips en temps real.  
-* **Seguretat i backups:** SSL, còpies automàtiques i CRM per gestionar clients i comunicació.
-
-## **Fase 3: Llançament i promoció (1–2 mesos)**
-
-**Objectiu:** donar visibilitat al projecte i captar comunitat.  
-**Tasques principals:**
-
-* **Campanyes digitals i directes:** vídeos, clips, visites virtuals i actuacions en viu des del centre.  
-* **Col·laboracions:** treballar amb músics locals, escoles i creadors per donar difusió.  
-* **Paquets promocionals:** ofertes de llançament, descomptes i plans de subscripció.  
-* **SEO i presència online:** optimitzar la web i aparèixer en cercadors i plataformes musicals.  
-* **Participació en esdeveniments:** assistir a fires, showcases i trobades del sector musical.  
-* **Anàlisi de mètriques:** revisar ocupació, vendes, visites i interaccions per millorar el servei.
+* **Seguretat i backups:** còpies automàtiques i CRM per gestionar clients i comunicació.
