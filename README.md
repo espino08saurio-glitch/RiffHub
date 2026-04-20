@@ -51,7 +51,8 @@ La gestió del projecte es farà amb GitHub en diferents fases:
 Aquest projecte permetrà veure com la tecnologia pot transformar un espai creatiu en un servei modern i ordenat. Aplicarem coneixements reals de SMX, aprendrem a organitzar-nos, treballar en equip i completar un projecte. El resultat final farà que RIFFHUB sigui un lloc eficient, segur i fàcil d’utilitzar per totes les bandes que hi passin.
 
 ### Plànol de RiffHub:
-<img width="1200" height="889" alt="Plano RIFFHUB sin seguridad" src="https://github.com/user-attachments/assets/ea6fc241-cfe9-4408-879e-7b66ed94a5b0" />
+<img width="840" height="623" alt="plano riffhub" src="https://github.com/user-attachments/assets/8b6bf915-d626-4915-a1b2-6bb4751a684a" />
+
 
 ---
 
