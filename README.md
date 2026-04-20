@@ -50,6 +50,7 @@ La gestió del projecte es farà amb GitHub en diferents fases:
 ## Conclusions i aprenentatges esperats
 Aquest projecte permetrà veure com la tecnologia pot transformar un espai creatiu en un servei modern i ordenat. Aplicarem coneixements reals de SMX, aprendrem a organitzar-nos, treballar en equip i completar un projecte. El resultat final farà que RIFFHUB sigui un lloc eficient, segur i fàcil d’utilitzar per totes les bandes que hi passin.
 
+# Plànol de RiffHub
 
 ---
 
