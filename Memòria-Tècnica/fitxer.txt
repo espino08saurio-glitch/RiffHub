@@ -1,1 +1,0 @@
-Per poder pujar el directori al github necessito tindre un fitxer a dins
