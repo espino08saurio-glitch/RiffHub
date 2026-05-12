@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="utf-8">
+  <title>RIFFHUB - Contacte</title>
+  <link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+  <div class="pagina-marco">
+    <h1>Contacte</h1>
+    <p class="texto-secundario">Utilitza aquesta pàgina per demanar informació sobre sales, instruments, reserves o incidències. El formulari és una demo visual i quedarà preparat per connectar-lo amb PHP més endavant.</p>
+
+    <div class="distribucion-contacto">
+      <div class="caja-contacto">
+        <h2 class="titulo-seccion">Dades de contacte</h2>
+        <ul class="datos-contacto">
+          <li><strong>Nom:</strong> RIFFHUB Coworking Musical</li>
+          <li><strong>Email:</strong> contacte@riffhub.demo</li>
+          <li><strong>Telèfon:</strong> 972 000 000</li>
+          <li><strong>Servei:</strong> sales d'assaig, estudis, instruments i suport tècnic.</li>
+        </ul>
+        <div class="nota-precios">
+          <p class="texto-secundario">Per consultes de reserva, indica la sala, la data aproximada i el material que necessites.</p>
+        </div>
+      </div>
+
+      <div class="caja-contacto caja-contacto-final">
+        <h2 class="titulo-seccion">Formulari (demo)</h2>
+        <form action="#" method="POST" class="formulario-contacto">
+          <p class="texto-secundario">Nom</p>
+          <input type="text" name="nom" required>
+
+          <p class="texto-secundario">Email</p>
+          <input type="email" name="email" required>
+
+          <p class="texto-secundario">Tipus de consulta</p>
+          <select name="tipus">
+            <option>Reserva de sala</option>
+            <option>Instrument o material</option>
+            <option>Incidència tècnica</option>
+            <option>Altres</option>
+          </select>
+
+          <p class="texto-secundario">Missatge</p>
+          <textarea name="msg" rows="5" cols="40" required></textarea>
+
+          <p><input type="submit" value="Enviar" class="boton-busqueda"></p>
+        </form>
+      </div>
+
+      <div class="limpiar-flotantes"></div>
+    </div>
+
+  </div>
+</body>
+</html>
